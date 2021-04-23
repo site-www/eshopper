@@ -1,0 +1,7 @@
+nav {
+    display: none;
+}
+section{
+    width: calc(100% - 10px);
+    height: calc(100% - 10px);
+}
